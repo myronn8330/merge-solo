@@ -1,6 +1,5 @@
 # merge-solo
 
 Yala
-reincarnated 
-to
+has
 cat
